@@ -1,7 +1,7 @@
 # scan_and_reszie_image_auto
 
 1. Install lib 
-ON Ubuntu
+On Ubuntu
 	php -v 
 if version php is 7.0
 	sudo apt-get install php7.0-gd
@@ -13,7 +13,7 @@ if version php is 7.2
 
 
 
-Folded like
+Folder_upload like
 
 	| folder_upload 
 		| scan.php
